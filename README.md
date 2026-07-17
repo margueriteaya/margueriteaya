@@ -27,7 +27,7 @@
 ## 接触并且正在使用的东西
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,python,js,ts,react,nextjs,powershell,ubuntu,windows,docker&perline=10" alt="HTML, Python, JavaScript, TypeScript, React, Next.js, PowerShell, Ubuntu, Windows, Docker" />
+  <img src="https://skillicons.dev/icons?i=html,python,js,ts,react,nextjs,powershell,ubuntu,windows,docker&perline=10" alt="HTML, Python, JavaScript, TypeScript, React, Next.js, nodejs, PowerShell, Ubuntu, Windows, Docker, cloudflare, vercel, ps, pr" />
 </p>
 
 我不会写代码，我只是很闲。

@@ -26,7 +26,9 @@
 
 ## 接触并且正在使用的东西
 
-`HTML` `Python` `JavaScript` `TypeScript` `React` `Next.js` `PowerShell` `Ubuntu` `Windows` `Docker`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,python,js,ts,react,nextjs,powershell,ubuntu,windows,docker&perline=10" alt="HTML, Python, JavaScript, TypeScript, React, Next.js, PowerShell, Ubuntu, Windows, Docker" />
+</p>
 
 我不会写代码，我只是很闲。
 
